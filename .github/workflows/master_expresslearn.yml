@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ExpressLearn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62434E646FE7471BBA97F1536CE19339 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5BFB6A41C26F451F8CC9D14C2F6CBF43 }}
           package: .
